@@ -13,9 +13,9 @@ Notes:
 Installation:
 
     -turtlebot3_mazerun [ROS Remote Computer]:
-        -In your Ubuntu system, place folder in home > catkin_ws > src
-        -In Terminal, go to catkin_ws dir and execute [catkin_make]
-        -To run, make sure roscore is active, then execute [rosrun turtlebot3_mazerun mainTurtlebot.py]
+        -In your Ubuntu system, place folder in <b>home > catkin_ws > src</b>
+        -In Terminal, go to catkin_ws dir and execute [<b>catkin_make</b>]
+        -To run, make sure roscore is active, then execute [<b>rosrun turtlebot3_mazerun mainTurtlebot.py</b>]
 
     -turtlebot3_core [Arduino]:
         -First, install the SharpIR library in to the Arduino Library folder
