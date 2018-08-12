@@ -1,0 +1,7 @@
+{
+    "board": "OpenCR:OpenCR:OpenCR",
+    "port": "COM7",
+    "sketch": "turtlebot3_sample.ino",
+    "output": "../arduino_temp",
+    "configuration": "upload_method=UploadMethod"
+}
